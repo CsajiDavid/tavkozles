@@ -20,18 +20,19 @@ A mérés célja a DVB-T jel paramétereinek ellenőrzése a földfelszíni digi
 <img width="1790" height="676" alt="térkép" src="https://github.com/user-attachments/assets/e9d273b0-98d8-44a1-bfb1-e64f3419af30" />
 
 ## 3. Mérési paraméterek ##
-
- Paraméter   Érték   
-Adó frekvencia	666 MHz  
-Sávszélesség	8MHz  
-Moduláció típusa	64-QAM, 8K, 1/4  
-Jelerősség (RSSI)	63.8 dBu  
-MER	29.0 dB  
-Noise Margin	12.0  
-Hiba nélkül vett adás időtartama	200 sec  
-
-
+	
 | Paraméterek | ÉRTÉK |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Adó frekvencia | 586MHz |
+| Sávszélesség |  |
+| Moduláció típusa | 64-QAM, 8K, 1/4 |
+| Jelerősség | 70 dBu |
+| MER | 27.2dB |
+| Noise Margin | 10.6 |
+| Hiba nélkül vett adás időtartama | 200sec |
+
+#### A Miskolci TV adótorony által sugárzott frekvenciák ####
+<img width="883" height="304" alt="image" src="https://github.com/user-attachments/assets/7dbc327d-107e-4ce8-bc64-4faee3dea21f" />  
+
+#### A CH35 -ös csatornán mért spektrum ####
+sandorpeteer.github.io/tavkozles
