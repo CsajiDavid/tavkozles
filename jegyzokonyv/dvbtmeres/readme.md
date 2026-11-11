@@ -1,9 +1,9 @@
 # DBV-T mérési jegyzőkönyv #
-Mérés helye: Miskolci SZC Kandó Kálmán Informatikai Technikum  
-Mérés időpontja: 2026.11.11.  
-Mérő műszerek: METEK HD - SV:1.18.2023 - SN: 210901000052  
-Felelős személy: Csáji Dávid  
-Cél: A DVB-T jel minőségi paramétereinek mérése.  
+**Mérés helye**: Miskolci SZC Kandó Kálmán Informatikai Technikum  
+**Mérés időpontja**: 2026.11.11.  
+**Mérő műszerek**: METEK HD - SV:1.18.2023 - SN: 210901000052  
+**Felelős személy**: Csáji Dávid  
+**Cé**l: A DVB-T jel minőségi paramétereinek mérése.  
  
 ---  
 ## 1. Bevezetés ##  
