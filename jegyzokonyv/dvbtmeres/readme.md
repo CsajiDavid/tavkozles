@@ -61,9 +61,9 @@ A mérés célja a DVB-T jel paramétereinek ellenőrzése a földfelszíni digi
 Az eredmények alapján a mérési helyen megfelelő minőségű DVB-T vétel biztosítható. A jelerősség és SNR értékek a megadott határértékek között mozogtak. A MER alacsony, és nem okozott észlelhető minőségromlást a vételben. A moduláció stabil volt, és nem voltak nagyobb interferenciák a mérések során.
 
 ## 6. Következtetések ##
-**>>**A mérési helyen a DVB-T jel stabil és megfelelő minőségű.  
-**>>**A rendszer modulációs és vételi paraméterei kielégítik a DVB-T előírásokat.  
-**>>**A jel/zaj viszony és a jelminőség értékei optimálisak voltak a földfelszíni sugárzás vételéhez.  
+**>>** A mérési helyen a DVB-T jel stabil és megfelelő minőségű.  
+**>>** A rendszer modulációs és vételi paraméterei kielégítik a DVB-T előírásokat.  
+**>>** A jel/zaj viszony és a jelminőség értékei optimálisak voltak a földfelszíni sugárzás vételéhez.  
 
 ## 7. Javaslatok ##
 Ha szükséges, meg kell vizsgálni az antennarendszer fejlesztésének lehetőségét, vagy további méréseket kell végezni különböző időjárási körülmények között, hogy hosszú távon is biztosított legyen a megfelelő minőségű vétel.
