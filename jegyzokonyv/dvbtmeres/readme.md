@@ -24,7 +24,7 @@ A mérés célja a DVB-T jel paramétereinek ellenőrzése a földfelszíni digi
 | Paraméterek | ÉRTÉK |
 | ----------- | ----------- |
 | Adó frekvencia | 586MHz |
-| Sávszélesség |  | 8MHz |
+| Sávszélesség | | 8MHz |
 | Moduláció típusa | 64-QAM, 8K, 1/4 |
 | Jelerősség | 70 dBu |
 | MER | 27.2dB |
