@@ -11,7 +11,7 @@
 A mérés célja a DVB-T jel paramétereinek ellenőrzése a földfelszíni digitális műsorszórás során. A mérési pont a V3 LABOR, ahol a DVB-T adások vételének minőségét értékeljük
 ## 2. Mérési helyszín és környezet ##  
 **>>Koordináták**: 48°06’20”N 20°46’48”E  
-**>>Antenna típusa**: [Iskra ndoor Antenna G-2235-06](https://www.iskra.eu/en/Indoor-Antennas/Indoor-Antenna-G-2235-06/)  
+**>>Antenna típusa**: [Iskra Indoor Antenna G-2235-06](https://www.iskra.eu/en/Indoor-Antennas/Indoor-Antenna-G-2235-06/)  
 **>>Antenna magassága**: 1.7 m  
 **>>Környezet jellemzői**: V3 labor, városi körülmények között  
 **>>Adó távolsága**: 786,89 m  
@@ -50,6 +50,13 @@ A mérés célja a DVB-T jel paramétereinek ellenőrzése a földfelszíni digi
 <img width="1280" height="720" alt="its_snapshot_0007" src="https://github.com/user-attachments/assets/4f073828-dd51-498d-9bb0-5c2432cda501" />
 
 ## 4. Mérési eredmények ##
+
+**>>Jelerősség**: A mért jelerősség 70 dBu. Ez az érték stabil volt 200 másodperces időtartam alatt, és megfelel a DVB-T előírásoknak. A mérési helyen a jel optimális volt.
+
+**>>Modulációs paraméterek**: A 64-QAM moduláció esetén a mért jel/zaj viszony (SNR) 10 dB körül váltakozott, ami megfelel a követelményeknek.
+
+**>>Modulation Error Ratio (MER)**: A mért MER érték 26.9 dB volt, amely azt mutatja, hogy a vétel probléma mentes volt.
+
 
 
 
