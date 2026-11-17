@@ -35,4 +35,21 @@ A mérés célja a DVB-T jel paramétereinek ellenőrzése a földfelszíni digi
 <img width="883" height="304" alt="image" src="https://github.com/user-attachments/assets/7dbc327d-107e-4ce8-bc64-4faee3dea21f" />  
 
 #### A CH35 -ös csatornán mért spektrum ####
-sandorpeteer.github.io/tavkozles
+<img width="1280" height="720" alt="its_snapshot_0004 (2)" src="https://github.com/user-attachments/assets/7faa2060-c009-4e6d-b4fb-0b4d815ccf03" />
+
+#### A CH35 -ös csatornán mért jelerősség, jel/zaj viszony, és bithibák ####
+<img width="1280" height="720" alt="its_snapshot_0005 (1)" src="https://github.com/user-attachments/assets/e9525d98-4ce7-48d4-8b77-0c863a4d2fce" />
+
+#### A CH35 -ös csatorna konstellációs diagramja ####
+<img width="1280" height="720" alt="its_snapshot_0003" src="https://github.com/user-attachments/assets/23448e6e-6dd0-45d2-b420-4cb0e10724c3" />
+
+#### A CH35 -ös csatornán a  M2 HD jelszint és TV adás ####
+<img width="1280" height="720" alt="its_snapshot_0006" src="https://github.com/user-attachments/assets/8e3a846e-0ddf-45d4-9979-4b4ea3e31c95" />
+
+#### A CH35 -ös csatornán a M2 HD műsora ####
+<img width="1280" height="720" alt="its_snapshot_0007" src="https://github.com/user-attachments/assets/4f073828-dd51-498d-9bb0-5c2432cda501" />
+
+## 4. Mérési eredmények ##
+
+
+
